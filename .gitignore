@@ -1,0 +1,7 @@
+# 資料集太大，不放進 repo，請從 README 的連結下載
+train/
+valid/
+*.pth
+*.pt
+.ipynb_checkpoints/
+__pycache__/
